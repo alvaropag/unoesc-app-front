@@ -2,7 +2,8 @@
   "name": "unoesc-app-front",
   "version": "0.0.0",
   "authors": [
-    "Guilherme Siquinelli <guiseek@gmail.com>"
+    "Guilherme Siquinelli <guiseek@gmail.com>",
+    "Álvaro Gianni Pagliari <alvaropag@gmail.com>"
   ],
   "description": "Unoesc App Front",
   "main": "index.html",
